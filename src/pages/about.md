@@ -17,5 +17,3 @@ Nothing want to say here so far ..........
 ## Tech Stack
 
 This website is based on AstroPaper, check [AstroPaper](https://astro-paper.pages.dev/).
-
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
